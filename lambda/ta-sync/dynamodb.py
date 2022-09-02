@@ -3,8 +3,6 @@ import logging
 import json
 
 import ec2
-import rds
-import elb
 
 LOG = logging.getLogger()
 LOG.setLevel(logging.INFO)
